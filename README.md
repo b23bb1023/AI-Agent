@@ -1,3 +1,4 @@
+#Important notice: Please check portfolio https://portfolio-8ge.pages.dev/ for updates and project details before complete files or demos are uploaded here.
 # Local Agent System
 
 A local FastAPI backend plus a WhatsApp bridge that forwards allowlisted commands to a bounded manager/worker pipeline.
